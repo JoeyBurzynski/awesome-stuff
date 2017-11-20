@@ -1,6 +1,6 @@
 # awesome-stuff
 
-A curated list of noteworthy stuff: services, articles, videos, etc.
+A curated list of noteworthy stuff I've stumbled upon: services, articles, videos, etc.
 
 ## Contents
 
